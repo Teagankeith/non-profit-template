@@ -11,6 +11,6 @@ This is a template design for a non-profit organization created by [Teagan Keith
 
 ## Contact Info
 
-Work Phone: 865-230-6879
-Email: inbox@teagankeith.com
-[LinkedIn](www.linkedin.com/in/teagankeith)
+1. Work Phone: 865-230-6879
+2. Email: inbox@teagankeith.com
+3. [LinkedIn](www.linkedin.com/in/teagankeith)
