@@ -35,9 +35,28 @@ function Home() {
           </div>
         </Header>
       </HeadingCont>
-      <div className="donate-now">
-        <h1>Donate now!</h1>
-        <button>DONATE</button>
+      <div className="img-cards">
+        <div className="unadopted">
+          <h2>132 Million</h2>
+          <p>
+            132 Million children are classified as orphans, 13 million of which
+            lost both parents.
+          </p>
+        </div>
+        <div className="families-adopting">
+          <h2>2 Million</h2>
+          <p>
+            Only 2 Million families are looking or waiting to adopt a child
+            currently in the United States.
+          </p>
+        </div>
+        <div className="lost-children">
+          <h2>8 Million</h2>
+          
+          <p>
+            8 Million child are classified as missing around the world.
+          </p>
+        </div>
       </div>
     </HomeCont>
   );
