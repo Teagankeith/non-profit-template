@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Description
 
 This is a template design for a non-profit organization created by [Teagan Keith](https://github.com/teagankeith)
 
